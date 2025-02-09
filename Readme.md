@@ -1,6 +1,6 @@
 # DripCult
 
-## 💧 About DripCult
+## About DripCult
 **DripCult** is a sleek and minimalistic fashion-centric website built with **HTML, CSS, and JavaScript**. It’s designed to showcase and elevate streetwear culture with smooth animations and responsive design.
 
 ## ✨ Features
