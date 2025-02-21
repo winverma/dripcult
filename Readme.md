@@ -29,7 +29,7 @@ Feel free to submit **pull requests** or report issues. Let's make DripCult bett
 For collaborations or suggestions:
 - **GitHub**: [@winverma](https://github.com/winverma)
 ---
-### 🔥 Stay Drippy. Stay Cultured. #DripCult
+### 🔥 Stay Drippy. Stay Cultured. #DripCult.
 
 
 
